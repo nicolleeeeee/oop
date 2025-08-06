@@ -1,0 +1,15 @@
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.AssemblyInfoInputs.cache
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.AssemblyInfo.cs
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.csproj.CoreCompileInputs.cache
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.sourcelink.json
+/workspaces/oop/activity4/bin/Debug/net8.0/activity4
+/workspaces/oop/activity4/bin/Debug/net8.0/activity4.deps.json
+/workspaces/oop/activity4/bin/Debug/net8.0/activity4.runtimeconfig.json
+/workspaces/oop/activity4/bin/Debug/net8.0/activity4.dll
+/workspaces/oop/activity4/bin/Debug/net8.0/activity4.pdb
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.dll
+/workspaces/oop/activity4/obj/Debug/net8.0/refint/activity4.dll
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.pdb
+/workspaces/oop/activity4/obj/Debug/net8.0/activity4.genruntimeconfig.cache
+/workspaces/oop/activity4/obj/Debug/net8.0/ref/activity4.dll
